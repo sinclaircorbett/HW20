@@ -1,0 +1,46 @@
+.container{
+  background-color: #D4B2A0;
+  text-align: center;
+}
+
+.wholenav {
+  background-color: #D4B2A0;
+}
+
+.jumbotronjumbotron-fluid{
+  background-image: url(../images/multi1.png);
+}
+
+.me {
+  align-content: center;
+}
+
+.display-4{
+  color: #12123E;
+  font-weight: 800;
+}
+
+.lead{
+  color: #12123E;
+  font-weight: 800;
+}
+
+.nav-link{
+  color:#12123E; 
+}
+
+.accordion{
+  text-align: center;
+}
+
+.img-fluid{
+  max-width: 80%;
+}
+
+/* .btnbtn-link{
+  color: #12123E;
+} */
+
+/* .btnbtn-linkcollapsed{
+  font: #12123E;
+} */
